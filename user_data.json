@@ -1,0 +1,18 @@
+{
+  "userArray": [
+    {
+      "name": "Chris Knight",
+      "email": "cknight7@hawaii.edu",
+      "password": "U2FsdGVkX1/KcLSs9SasRt/4hIjAdr/cpw9sDPN85h4=",
+      "prev_login": "2024-01-06",
+      "num_login": 1
+    },
+    {
+      "name": "Dan Port",
+      "email": "itm352@hawaii.edu",
+      "password": "U2FsdGVkX18Co/IzDDilzTrsyeuDJk3csLGqOhlsm48=",
+      "prev_login": "2024-01-06",
+      "num_login": 1
+    }
+  ]
+}
