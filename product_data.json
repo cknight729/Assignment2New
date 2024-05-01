@@ -4,55 +4,55 @@
         "price": 219.00,
         "image": "Babolat.jpg",
         "quantity_available": 6,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+        "description": "A personal favorite here in our store."
         },
         {
         "brand": "Wilson",
         "price": 249.00,
         "image": "Wilson.jpg",
         "quantity_available": 8,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+        "description": "A trusted brand."
         },
         {
         "brand": "Prince",
         "price": 199.00,
         "image": "Prince.jpg",
         "quantity_available": 18,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+        "description": "Used by royalty."
         },
         {
         "brand": "Head",
         "price": 129.00,
         "image": "Head.jpg",
         "quantity_available": 28,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+        "description": "Somebody uses these."
         },
         {
         "brand": "Yonex",
         "price": 265.00,
         "image": "Yonex.jpg",
         "quantity_available": 14,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+        "description": "Their other products are just as good."
         },
         {
             "brand" : "Single | (1 Count)",
             "price": 2.00,
             "image": "Head.jpg",
             "quantity_available": 28,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+            "description": "For use to play fetch with your dog."
         },
         {
             "brand" : "Can | (3 Count)",
             "price": 4.00,
             "image": "Head.jpg",
             "quantity_available": 28,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+            "description": "Good for a quick match."
         },
         {
             "brand" : "Box | (72 Count)",
             "price": 32.00,
             "image": "Head.jpg",
             "quantity_available": 28,
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie rutrum suscipit."
+            "description": "Good for several matches."
         }
 ]
